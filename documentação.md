@@ -47,9 +47,9 @@ Comandos que o usuário pode colocar no teclado da urna
 | 0 | Voto branco*¹ |
 | >65535 | Não vai contabilizar o voto como segurança para evitar números grandes |
 
-Depois do voto ser confirmado ele não pode ser corrigido.
-
 1. O voto branco vai ser considerado no partido mais votado.
+
+Depois do voto ser confirmado ele não pode ser corrigido.
 
 Qualquer voto que não seja de um partido presente deve ser considerado um voto nulo.
 
