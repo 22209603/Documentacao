@@ -1,5 +1,5 @@
 # Manual de Utilização da Urna Eletrônica
-Manual referente à utilização do projeto urna eletrônica arduino, com projeto e detalhamento disponível no [github](https://github.com/alguemla/urna-arduino)
+Manual referente à utilização do projeto urna eletrônica arduino, com projeto e detalhamento disponível no [github](https://github.com/alguemla/Urna-Sigma)
 
 ## Considerações Iniciais
 O projeto da urna eletrônica foi feito tendo em mente a simplicidade da utilização e simplificação das funções utilizadas, a favor de oferecer um projeto de qualidade e robusto, de forma que erros possam ser minimizados.Neste projeto usufruímos do uso de 1x Arduino (módulo programável de computação), 1x Teclado numérico (como forma de injetar informações na urna) 1x Tela LCD (como forma de retorno visual das ações tomadas na urna). Garantindo a integridade destes módulos, a urna não necessita de mais módulos do que os mencionados acima para conduzir uma votação simples.
