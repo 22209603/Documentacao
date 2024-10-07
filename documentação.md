@@ -57,7 +57,7 @@ Qualquer voto que não seja de um partido presente deve ser considerado um voto 
 ### Instalação
 A instalação pode ser realizada pelo site do [coolterm](https://freeware.the-meiers.org) na opção intel64bit
 
-![image](https://github.com/user-attachments/assets/39e2bba4-d48d-4a11-8d50-a0ed868c0960)
+![image](https://i.ibb.co/qnvr1dL/image.png)
 
 Depois é só extrair o arquivo que a instalação vai estar concluida.
 ### Operação
@@ -65,22 +65,22 @@ Para a urna ser operada adequadamente e sem perda de dados deve mudar algumas co
 
 A primeira e mais importante é ativar o DTR
 
-![image](https://github.com/user-attachments/assets/f0092f5f-7262-4af3-9fac-2881c58fc56d)
+![image](https://i.ibb.co/2nyQX31/image.png)
 
 A segunda é mudar para a porta de comunicação que a urna se encontra, que é sinalizada pelo texto arduino uno ou serial.
 
-![image](https://github.com/user-attachments/assets/46874321-af25-46de-9ccc-5ac7af9a67ca)
+![image](https://i.ibb.co/J2vr27p/image.png)
 
 A terceira é na sessão terminal ativar o line mode
 
-![image](https://github.com/user-attachments/assets/ecd48487-ca62-46ec-ab1e-b1a86d00c5c9)
+![image](https://i.ibb.co/BjQjgzR/image.png)
 
 A quarta e ultima é ainda no terminal trocar de CR + LF para CR
 
-![image](https://github.com/user-attachments/assets/52cf5aad-9af8-45ce-aa53-322182400a28)
+![image](https://i.ibb.co/Jy0FmRR/image.png)
 
 Para conectar a urna é simplesmente pressionar connect
 
-![image](https://github.com/user-attachments/assets/1ae768ee-8824-4c66-969a-edb1be420f87)
+![image](https://i.ibb.co/rm2kYKk/image.png)
 
 Se tudo tiver sido configurado corretamente agora é simplesmente digitar o comando
